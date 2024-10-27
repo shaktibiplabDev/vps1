@@ -1,0 +1,29 @@
+[
+  {
+    "modid": "sexmod",
+    "name": "SchnurriTV's Sexmod",
+    "description": "A +18 work in progress Mod, that adds the sex to Minecraft",
+    "version": "1.2.0",
+    "mcversion": "1.12.2",
+    "url": "https://twitter.com/Schnurri_tv",
+    "updateUrl": "",
+    "authorList": ["SchnurriTV - CEO of Sexs"],
+    "credits": "
+
+ @Lizzywaffler for being Jennys Voice Actress 
+
+ @IoanaXylia for being Ellie's Voice Actress and a nice person ig <3 
+
+ @OdysseyEllie for building the characters' homes 
+
+ KellyLoveyness from DarkPleasures for fixing lag 
+
+ u/Shurifera for those pixel art characters 
+
+ @MoriRoseMC for teaching me a thing or two in animation :) 
+",
+    "logoFile": "banner.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
